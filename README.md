@@ -63,4 +63,5 @@ opportunities.
 
 ## Visuals
 <!-- Add your dashboard screenshot here -->
-![Dashboard](dashboard.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/110e3a79-05e7-404f-b00a-c8227e92af50" />
+
